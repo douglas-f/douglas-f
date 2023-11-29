@@ -1,4 +1,5 @@
 ### Hi there 👋
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=kourosh-forti-hands&show_icons=true&theme=gotham" alt="kourosh-forti-hands" />
 
 <!--
 **douglas-f/douglas-f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
